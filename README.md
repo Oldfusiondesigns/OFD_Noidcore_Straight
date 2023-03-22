@@ -8,7 +8,7 @@ What is noidcore?
 •	The goal of Noidcore is to allow designers new and old to focus on creating exciting new designs with a proven flywheel core that’s simple to build and has compact geometry to integrate
 
 
-Details
+**Details**
 
 •	Compatible with ANY Flywheel (From FTW to Banned Blasters)
 
@@ -22,7 +22,7 @@ Details
 
 
 
-Licensing and Production
+**Licensing and Production**
 
 •	Noidcore is licensed under CC-BY-SA-NC: https://creativecommons.org/licenses/by-nc-sa/2.0/
 
@@ -30,7 +30,7 @@ Licensing and Production
 
 
 
-Hardware List
+**Hardware List**
 
 (2) 130 motors
 
@@ -49,7 +49,8 @@ Hardware List
  (1) Spring 20mm in length less than 7mm in diameter for mag release (Recommend McMaster 9657K297 Trimmed to ~20-22mm)
  
  
-What should I print?
+ 
+**What should I print?**
 
 •	Nightingale – 19.5mm-20mm crush 
 
