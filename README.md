@@ -1,4 +1,7 @@
 # OFD_Noidcore_Straight
+
+![alt text](https://github.com/oldfieldadamg/OFD_Flycore_Straight/blob/main/Images/Capture.PNG)
+
 What is noidcore?
 
 •	Noidcore is the OOD x Eli Wu Neutron Solenoid powered version of the popular flycore platform!  This allows for native semi-automatic operation, and easy select fire with addition of a micro controller. 
